@@ -28,11 +28,7 @@
 #define CITY_NAME "NORMAN" //if your city name has a space, replace with '+'
 #define STATE_NAME "OKLAHOMA"
 #define COUNTRY_CODE "US"
-<<<<<<< HEAD
 #define OPENWEATHERMAP_APIKEY "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" //use your own API key :)
-=======
-#define OPENWEATHERMAP_APIKEY "" //use your own API key :)
->>>>>>> d6158422dabdc9df0ebce89c4dda76facbee2728
 #define OPENWEATHERMAP_URL "http://api.openweathermap.org/data/2.5/weather?q="
 #define TEMP_UNIT "metric" //use "imperial" for Fahrenheit"
 #define WEATHER_UPDATE_INTERVAL 30 //minutes
