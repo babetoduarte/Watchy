@@ -25,9 +25,10 @@
 #define DISPLAY_WIDTH 200
 #define DISPLAY_HEIGHT 200
 //weather api
-#define CITY_NAME "NEW+YORK" //if your city name has a space, replace with '+'
+#define CITY_NAME "NORMAN" //if your city name has a space, replace with '+'
+#define STATE_NAME "OKLAHOMA"
 #define COUNTRY_CODE "US"
-#define OPENWEATHERMAP_APIKEY "f058fe1cad2afe8e2ddc5d063a64cecb" //use your own API key :)
+#define OPENWEATHERMAP_APIKEY "3cf9000a9633416f3f627cfd26d91c6e" //use your own API key :)
 #define OPENWEATHERMAP_URL "http://api.openweathermap.org/data/2.5/weather?q="
 #define TEMP_UNIT "metric" //use "imperial" for Fahrenheit"
 #define WEATHER_UPDATE_INTERVAL 30 //minutes
